@@ -1,39 +1,46 @@
-DC: Doctor Cat!
-Doctor Cat! is a light-hearted 2D shooter where you play as a heroic cat doctor fending off waves of viruses in a pixel-art world. This was a one-week solo project created in Unity to sharpen my skills in gameplay programming, UI design, and polish.
+# DC: Doctor Cat!
 
-How to Play
-Move: Arrow Keys or WASD
+**Doctor Cat!** is a light-hearted 2D pixel shooter made in Unity.  
+You play as an adorable cat doctor defending against an endless wave of viruses. Use power-ups, dodge threats, and survive as long as you can while racking up points and saving the day!
 
-Shoot: Automatically fires forward
+---
 
-Boost: Hold Left Ctrl for a temporary speed boost
+##  Gameplay Features
 
-Fast Shooting Buff: Press Spacebar for rapid fire (limited time)
+- Smooth player movement with 4-direction control  
+- Auto-shooting mechanic with score-based gameplay  
+- Speed boost (CTRL) and fast-shooting (SPACE) buffs  
+- HP system with animated UI hearts  
+- Game Over screen with smooth fade transitions  
+- Power-up healing system with randomized spawns  
+- Fully animated UI cooldown indicators  
+- Scrolling background and screen shake effects  
 
-Your mission is simple: survive the virus outbreak as long as you can! Collect power-ups, avoid enemies, and rack up your score.
+---
 
- Features
-Simple, responsive player controls
+## Project Details
 
-Speed boost and fast-shooting buffs
+- 🧑‍⚕️ **Role:** Solo Developer (Carlos Rondon)  
+- 🛠️ **Engine:** Unity 6  
+- ⏱️ **Development Time:** 1 week  
+- 🎯 **Focus Areas:** Gameplay systems, player feedback, UI polish, rapid prototyping  
 
-Game Over screen with fade transitions
+---
 
-UI with live score, high score, and cooldown indicators
+##  How to Play
 
-Polished visuals and feedback (flashes, screen shake, SFX)
+- **Move:** WASD or Arrow Keys  
+- **Shoot:** Automatically fires forward  
+- **Speed Boost:** Hold `Left Ctrl`  
+- **Fast Shooting Buff:** Press `Spacebar`  
+- **Collect Hearts:** Restore 1 HP (only if you're not at max)  
+- **Avoid Enemies:** Colliding will reduce your HP  
 
-Mobile-friendly layout and UI scaling
+Survive as long as possible while increasing your score.  
+The game ends when your health runs out.
 
-What I Learned
-This project helped me practice:
+---
 
-Implementing shooting mechanics and player buffs
+## License
 
-Creating animated UI and responsive screen scaling
-
-Using LeanTween for transitions and effects
-
-Managing game state (pause, game over, scoring, HP)
-
-Designing with polish and player feedback in mind
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
